@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! Thank you for visiting my profile. My name is Robert Koifman. If you're an IoT developer, I'm sure we’ll have a lot to share with each other. For the last few years, I’ve been developing a project called Softnet Free. This is a platform for remote communication with TCP/IP-enabled devices over the Internet. The platform is freely available under the Apache 2.0 license. If you are a DIY developer, you can utilize it to build complete Internet-enabled IoT applications. If you are a startup planning to create some kind of IoT product that requires remote device management functionality, Softnet Free can help you save a lot of money and speed up the implementation of your business idea. And if you're a device manufacturer, you can consider the prospect of utilizing this platform for your products.
 
 <!--
 **Robert-Koifman/robert-koifman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
